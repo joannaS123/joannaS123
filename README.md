@@ -1,4 +1,5 @@
-### Hi there 👋
+hola mi nombre es joanna suarez 
+actualmente estoy estudiando el curso en Fundamentos en programacion web.
 
 <!--
 **joannaS123/joannaS123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
